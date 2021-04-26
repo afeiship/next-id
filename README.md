@@ -15,7 +15,8 @@ npm install -S @jswork/next-id
 ```js
 import '@jswork/next-id';
 
-//DOCS here!
+const id1 = nx.id();  // 1
+const id2 = nx.id();  // 2
 ```
 
 ## license
